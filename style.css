@@ -85,3 +85,23 @@ img{
 img:hover{
     box-shadow: 0px 0px 30px black;
 }
+ul{
+    margin-left: -4.7px;
+    margin-top: 10px;
+}
+li{
+    display: inline;
+    padding: 10px;
+}
+.play:hover{
+    cursor: pointer;
+    border-color: #bebebe;
+}
+.for:hover{
+    cursor: pointer;
+    border-color: #bebebe;
+}
+.back:hover{
+    cursor: pointer;
+    border-color: #bebebe;
+}
