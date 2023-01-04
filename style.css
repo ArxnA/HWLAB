@@ -6,26 +6,6 @@ html{
     height: 100%;
 }
 
-
-music player part ->{
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-song and the song writers -> {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-
-song writers -> {
-    color: #666666;
-    font-size: smaller;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-song writers while mouseover{
-    color: #2e2e2e;
-}
-
 .play,
 .back,
 .for{
@@ -34,15 +14,6 @@ song writers while mouseover{
     height: 45px;
     border-radius: 50%;
 }
-
-
-.back
-.for
-.play while mouseover -> {
-    border-color: #bebebe;
-}
-
-
 .aa{
     height: 400px;
     width: 270px;
