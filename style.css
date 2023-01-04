@@ -52,3 +52,46 @@ song writers while mouseover{
 .play while mouseover -> {
     border-color: #bebebe;
 }
+
+
+.c{
+    color: #666666;
+    font-size: smaller;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.c:hover{
+    color: #2e2e2e;
+}
+.b, .a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ffffff;
+    margin: auto;
+}
+.a{
+    margin-left: 89px;
+    margin-right: 89px;
+    margin-top: 10px;
+}
+.b{ 
+    margin-left: 102px;
+    margin-right: 102px;
+    margin-top: 0px;  
+}
+.c{
+    margin-left: 69px;
+    margin-right: 69px;
+    margin-top: 2px;
+}
+.t{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 18px;
+    margin-top: 2px;
+}
+input[type="range"]{
+    width: 230px;
+    margin-left: 19px;
+    margin-top: 2px;
+}
