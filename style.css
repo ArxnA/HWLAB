@@ -52,3 +52,14 @@ song writers while mouseover{
 .play while mouseover -> {
     border-color: #bebebe;
 }
+
+
+img{
+    width: 195px;
+    height: 195px;
+    border-radius: 5px;
+    margin: 37px;
+    margin-top: 13px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+}
