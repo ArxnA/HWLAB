@@ -52,3 +52,24 @@ song writers while mouseover{
 .play while mouseover -> {
     border-color: #bebebe;
 }
+
+ul{
+    margin-left: -4.7px;
+    margin-top: 10px;
+}
+li{
+    display: inline;
+    padding: 10px;
+}
+.play:hover{
+    cursor: pointer;
+    border-color: #bebebe;
+}
+.for:hover{
+    cursor: pointer;
+    border-color: #bebebe;
+}
+.back:hover{
+    cursor: pointer;
+    border-color: #bebebe;
+}
